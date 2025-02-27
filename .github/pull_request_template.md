@@ -30,5 +30,3 @@
 > **Observação:** Se o seu PR for um **hotfix** ou **hotfix** de **bugfix**, não se esqueça de alterar o nome do PR para refletir isso.
 
 Footnotes
-
-  [^1]: Teste
